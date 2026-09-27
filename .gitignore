@@ -1,0 +1,12 @@
+# Binaries
+/bin/
+/build/
+
+# Go
+*.exe
+*.test
+*.out
+
+# Database files
+*.db
+*.db-*
